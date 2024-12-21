@@ -16,7 +16,7 @@ start-all.sh
 start-hbase.sh
 ```
 
-#### YCSB load:
+#### YCSB Load:
 
 ```shell
 cd HPCA-AE
