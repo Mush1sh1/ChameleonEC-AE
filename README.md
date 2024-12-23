@@ -16,7 +16,7 @@ start-all.sh
 start-hbase.sh
 ```
 
-#### YCSB Load:
+#### YCSB load:
 
 ```shell
 cd HPCA-AE
@@ -38,16 +38,16 @@ python3 YCSB-Run.py 1
 
 ```
 cd ~/trace/facebook
-python3 facebook-load.py 3
-python3 facebook-load.py 3 (need run 2 times)
+python3 facebook-run.py 3
+python3 facebook-run.py 3 (need run 2 times)
 ```
 
 #### Memcached Load:
 
 ```
-python3 facebook-load.py
-or python3 IBM-load.py
-or twitter-load.py
+./facebook-load
+./IBM-load
+./twitter-load
 ```
 
 #### Memcached Run:
