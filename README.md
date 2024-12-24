@@ -53,8 +53,8 @@ python3 facebook-run.py 3 (need run 2 times)
 #### Memcached Run:
 
 ```
-python3 facebook-run.py
-or python3 IBM-run.py
-or twitter-run.py
+python3 facebook-run.py 1
+or python3 IBM-run.py 1
+or twitter-run.py 1
 ```
 
