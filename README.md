@@ -29,7 +29,7 @@ python3 YCSB-Load.py 0
 cd ~/ElasticRepair/scripts/bandwidth
 python3 run-BD-Monitor.py
 cd ~/HPCA-AE
-python3 YCSB-Run.py 1
+python3 YCSB-Run.py 2
 ```
 
 ### Memcached-Evauation:
